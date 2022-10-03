@@ -3,6 +3,9 @@ Documentation        Login tests
 
 Resource             ../resources/main.resource
 
+Test Setup           Start Test
+Test Teardown        Finish Test
+
 *** Test Cases ***
 Deve logar com sucesso
     Go To Login Page
